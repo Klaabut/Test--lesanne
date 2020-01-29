@@ -1,0 +1,13 @@
+C:\Users\Karl\Desktop\VS\Ühis-Transpordi-Agregaat\Ühis-Transpordi-Agregaat\Ühis-Transpordi-Agregaat\bin\Debug\netcoreapp3.1\Ühis-Transpordi-Agregaat.exe
+C:\Users\Karl\Desktop\VS\Ühis-Transpordi-Agregaat\Ühis-Transpordi-Agregaat\Ühis-Transpordi-Agregaat\obj\Debug\netcoreapp3.1\Ühis-Transpordi-Agregaat.csprojAssemblyReference.cache
+C:\Users\Karl\Desktop\VS\Ühis-Transpordi-Agregaat\Ühis-Transpordi-Agregaat\Ühis-Transpordi-Agregaat\obj\Debug\netcoreapp3.1\Ühis-Transpordi-Agregaat.AssemblyInfoInputs.cache
+C:\Users\Karl\Desktop\VS\Ühis-Transpordi-Agregaat\Ühis-Transpordi-Agregaat\Ühis-Transpordi-Agregaat\obj\Debug\netcoreapp3.1\Ühis-Transpordi-Agregaat.AssemblyInfo.cs
+C:\Users\Karl\Desktop\VS\Ühis-Transpordi-Agregaat\Ühis-Transpordi-Agregaat\Ühis-Transpordi-Agregaat\bin\Debug\netcoreapp3.1\Ühis-Transpordi-Agregaat.deps.json
+C:\Users\Karl\Desktop\VS\Ühis-Transpordi-Agregaat\Ühis-Transpordi-Agregaat\Ühis-Transpordi-Agregaat\bin\Debug\netcoreapp3.1\Ühis-Transpordi-Agregaat.runtimeconfig.json
+C:\Users\Karl\Desktop\VS\Ühis-Transpordi-Agregaat\Ühis-Transpordi-Agregaat\Ühis-Transpordi-Agregaat\bin\Debug\netcoreapp3.1\Ühis-Transpordi-Agregaat.runtimeconfig.dev.json
+C:\Users\Karl\Desktop\VS\Ühis-Transpordi-Agregaat\Ühis-Transpordi-Agregaat\Ühis-Transpordi-Agregaat\bin\Debug\netcoreapp3.1\Ühis-Transpordi-Agregaat.dll
+C:\Users\Karl\Desktop\VS\Ühis-Transpordi-Agregaat\Ühis-Transpordi-Agregaat\Ühis-Transpordi-Agregaat\bin\Debug\netcoreapp3.1\Ühis-Transpordi-Agregaat.pdb
+C:\Users\Karl\Desktop\VS\Ühis-Transpordi-Agregaat\Ühis-Transpordi-Agregaat\Ühis-Transpordi-Agregaat\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Karl\Desktop\VS\Ühis-Transpordi-Agregaat\Ühis-Transpordi-Agregaat\Ühis-Transpordi-Agregaat\obj\Debug\netcoreapp3.1\Ühis-Transpordi-Agregaat.csproj.CopyComplete
+C:\Users\Karl\Desktop\VS\Ühis-Transpordi-Agregaat\Ühis-Transpordi-Agregaat\Ühis-Transpordi-Agregaat\obj\Debug\netcoreapp3.1\Ühis-Transpordi-Agregaat.dll
+C:\Users\Karl\Desktop\VS\Ühis-Transpordi-Agregaat\Ühis-Transpordi-Agregaat\Ühis-Transpordi-Agregaat\obj\Debug\netcoreapp3.1\Ühis-Transpordi-Agregaat.pdb
